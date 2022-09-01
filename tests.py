@@ -21,4 +21,4 @@ def test_it():
 
 	assert s.size()==101
 
-	raise NotImplementedError('Need to implement a simple test.')
+# 	raise NotImplementedError('Need to implement a simple test.')
